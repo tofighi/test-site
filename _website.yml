@@ -1,8 +1,8 @@
 # TODO: Add date format.
 # TODO: Separate this file into further yaml files?
 website:
-  title: "ForBo7 // Salman Naqvi"
-  site-url: https://forbo7.github.io/
+  title: "Ghassem"
+  site-url: https://tofighi.github.io/test-site
   description: "The world of ForBo7!"
   favicon: favicon.ico
 #  favicon: cover.png
@@ -34,7 +34,7 @@ website:
       - icon: rss
         href: forblog/index.xml
   page-footer:
-    left: "[ForBo7 // Salman Naqvi](https://forbo7.github.io/) © 2023 and ForBlog™ by [Salman Naqvi](https://forbo7.github.io/about.html)"
+    left: "[ForBo7 // Salman Naqvi](https://tofighi.github.io/test-site/) © 2023 and ForBlog™ by [Salman Naqvi](https://tofighi.github.io/test-site/about.html)"
     center:
       - icon: file-post-fill
         href: https://forums.fast.ai/u/forbo7/summary
@@ -50,7 +50,7 @@ website:
         href: mailto:salmananaqvii+forblog@gmail.com
       - icon: rss
         href: forblog/index.xml
-    right: "[Site Version 2.2.1.2](https://forbo7.github.io/patch_notes.html) | [Site Feedback](https://forbo7.github.io/feedback.html) | Website made by me!"
+    right: "[Site Version 2.2.1.2](https://tofighi.github.io/test-site/patch_notes.html) | [Site Feedback](https://tofighi.github.io/test-site/feedback.html) | Website made by me!"
   twitter-card:
     title: "ForBo7 // Salman Naqvi"
     description: "The world of ForBo7!"
@@ -63,7 +63,7 @@ website:
     image: cover.png
   comments:
     giscus:
-      repo: ForBo7/forbo7.github.io
+      repo: ForBo7/tofighi.github.io/test-site
       repo-id: R_kgDOICXnAA
       category: Giscus Comments
       category-id: DIC_kwDOICXnAM4CR8YX
